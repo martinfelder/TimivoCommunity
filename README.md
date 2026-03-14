@@ -63,8 +63,6 @@ Deine Arbeitszeit einfach verfolgen. Eine native iOS-App zur Erfassung, Auswertu
 - Lokale Speicherung (UserDefaults)
 - Externer Speicherort wählbar (z.B. iCloud, Dateien-App)
 
----
-
 ## Technologie
 
 | | |
