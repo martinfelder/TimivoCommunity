@@ -74,13 +74,9 @@ Deine Arbeitszeit einfach verfolgen. Eine native iOS-App zur Erfassung, Auswertu
 | **Plattform** | iOS 17+ |
 | **Sprache** | Swift 5.9+ |
 
----
-
 ## Autor
 
 Martin Felder
-
----
 
 ## Lizenz
 
