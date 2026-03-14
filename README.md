@@ -2,8 +2,6 @@
 
 Deine Arbeitszeit einfach verfolgen. Eine native iOS-App zur Erfassung, Auswertung und Verwaltung von Arbeitszeiten – mit Kundenunterstützung, Live Activity, gestaffelten Pausenregeln und automatischem Backup.
 
----
-
 ## Features
 
 ### Zeiterfassung
