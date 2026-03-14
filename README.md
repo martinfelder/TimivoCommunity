@@ -2,12 +2,6 @@
 
 Deine Arbeitszeit einfach verfolgen. Eine native iOS-App zur Erfassung, Auswertung und Verwaltung von Arbeitszeiten – mit Kundenunterstützung, Live Activity, gestaffelten Pausenregeln und automatischem Backup.
 
-<p align="center">
-  <img src="screenshots/01_timer.png" width="230" alt="Timer">
-  <img src="screenshots/02_entries.png" width="230" alt="Letzte Einträge">
-  <img src="screenshots/04_report_chart.png" width="230" alt="Auswertung">
-</p>
-
 ---
 
 ## Features
@@ -30,12 +24,6 @@ Deine Arbeitszeit einfach verfolgen. Eine native iOS-App zur Erfassung, Auswertu
 - **Dynamic Island** – Kompakte Anzeige mit Live-Timer
 - Timer tickt automatisch ohne App-Updates
 
-<p align="center">
-  <img src="screenshots/06_settings_customers.png" width="230" alt="Kunden & Einstellungen">
-  <img src="screenshots/03_settings.png" width="230" alt="Einstellungen">
-  <img src="screenshots/07_backup.png" width="230" alt="Backup">
-</p>
-
 ### Kundenprofile
 - **Kundenauswahl** beim Starten des Timers
 - **Individuelle Einstellungen pro Kunde:**
@@ -54,10 +42,6 @@ Deine Arbeitszeit einfach verfolgen. Eine native iOS-App zur Erfassung, Auswertu
 - Detailansicht mit allen Informationen pro Eintrag
 - Bearbeitungsmodus – Einträge bearbeiten oder löschen
 - Mehrfachauswahl zum Löschen
-
-<p align="center">
-  <img src="screenshots/05_report_details.png" width="230" alt="Auswertung Details & Export">
-</p>
 
 ### Auswertungen
 - **Zeiträume:** Tag, Woche, Monat, Jahr
