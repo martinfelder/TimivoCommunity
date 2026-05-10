@@ -8,6 +8,7 @@ Die einzelnen Roadmap-Punkte sind zusätzlich als GitHub Issues erfasst.
 
 - [Datenqualität vor Export](https://github.com/martinfelder/TimivoCommunity/issues/3)
 - [Monatsabschluss](https://github.com/martinfelder/TimivoCommunity/issues/4)
+- [Grafische Auswertungsübersicht für Woche, Monat und Jahr](https://github.com/martinfelder/TimivoCommunity/issues/23)
 - [PDF-Report weiter verbessern](https://github.com/martinfelder/TimivoCommunity/issues/5)
 - [Qualitätsstatus pro Tag](https://github.com/martinfelder/TimivoCommunity/issues/6)
 - [Intelligente Pausenerinnerungen](https://github.com/martinfelder/TimivoCommunity/issues/7)
