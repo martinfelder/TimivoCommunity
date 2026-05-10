@@ -2,57 +2,39 @@
 
 Diese Roadmap beschreibt die geplante Weiterentwicklung von Timivo aus Produktsicht. Reihenfolge und Umfang können sich durch Tester-Feedback ändern.
 
+Die einzelnen Roadmap-Punkte sind zusätzlich als GitHub Issues erfasst.
+
 ## Kurzfristig
 
-- **Datenqualität vor Export**
-  - Warnungen vor dem Export anzeigen, z.B. unbestätigte Arbeitstage oder unvollständige Einträge.
-- **Monatsabschluss**
-  - Geführter Monatscheck mit Arbeitszeit, Abwesenheiten, Ferien, Überzeit und PDF-Ausgabe.
-- **PDF-Report weiter verbessern**
-  - Noch klarere Zusammenfassungen, bessere Lesbarkeit und sinnvollere Detailoptionen.
-- **Qualitätsstatus pro Tag**
-  - Schnell sichtbar machen, ob ein Tag vollständig, auffällig oder geprüft ist.
-- **Pausenerinnerungen**
-  - Hinweise, wenn lange ohne Pause gearbeitet wurde oder eine Pausenregel relevant wird.
-- **Siri Shortcuts / App Shortcuts**
-  - Arbeit starten, Pause starten oder Arbeit beenden per Kurzbefehl.
+- [Datenqualität vor Export](https://github.com/martinfelder/TimivoCommunity/issues/3)
+- [Monatsabschluss](https://github.com/martinfelder/TimivoCommunity/issues/4)
+- [PDF-Report weiter verbessern](https://github.com/martinfelder/TimivoCommunity/issues/5)
+- [Qualitätsstatus pro Tag](https://github.com/martinfelder/TimivoCommunity/issues/6)
+- [Intelligente Pausenerinnerungen](https://github.com/martinfelder/TimivoCommunity/issues/7)
+- [Siri Shortcuts / App Shortcuts](https://github.com/martinfelder/TimivoCommunity/issues/8)
 
 ## Mittelfristig
 
-- **Ferienplanung mit Prognose**
-  - Restferien, geplante Ferien und mögliche Überträge transparenter darstellen.
-- **Überzeit-Abbauplan**
-  - Planungshilfe, um Überzeit gezielt abzubauen.
-- **Arbeitgeber-Regelcheck**
-  - Einfache Prüfung von Regeln wie Mindestpause oder maximale Tagesarbeitszeit.
-- **Persönliche Wochenziele**
-  - Optionales Wochenziel zusätzlich zum normalen Soll.
-- **Start- und Endzeit-Vorlagen**
-  - Schnellwahl für typische Arbeitstage.
-- **Schnellkorrektur aus Analyse**
-  - Auffällige Tage direkt aus der Analyse bearbeiten.
+- [Ferienplanung mit Prognose](https://github.com/martinfelder/TimivoCommunity/issues/9)
+- [Überzeit-Abbauplan](https://github.com/martinfelder/TimivoCommunity/issues/10)
+- [Arbeitgeber-Regelcheck](https://github.com/martinfelder/TimivoCommunity/issues/11)
+- [Persönliche Wochenziele](https://github.com/martinfelder/TimivoCommunity/issues/12)
+- [Start- und Endzeit-Vorlagen](https://github.com/martinfelder/TimivoCommunity/issues/13)
+- [Schnellkorrektur aus Analyse](https://github.com/martinfelder/TimivoCommunity/issues/14)
 
 ## Später
 
-- **Kalender-Export**
-  - Arbeitssitzungen optional in einen Kalender schreiben.
-- **Interaktive Widgets**
-  - Timer-Aktionen direkt aus Widgets starten.
-- **Lock-Screen-Widgets**
-  - Kompakte Anzeige für Sperrbildschirm und StandBy.
-- **Ortsbasierte Erinnerungen**
-  - Erinnern oder Start/Stopp vorschlagen, wenn ein Arbeitsort betreten oder verlassen wird.
-- **Apple Health Integration**
-  - Pausen optional als Achtsamkeitszeit erfassen.
+- [Kalender-Export](https://github.com/martinfelder/TimivoCommunity/issues/15)
+- [Interaktive Widgets](https://github.com/martinfelder/TimivoCommunity/issues/16)
+- [Lock-Screen-Widgets](https://github.com/martinfelder/TimivoCommunity/issues/17)
+- [Ortsbasierte Erinnerungen](https://github.com/martinfelder/TimivoCommunity/issues/18)
+- [Apple Health Integration](https://github.com/martinfelder/TimivoCommunity/issues/19)
 
 ## Größere Zukunftsthemen
 
-- **iCloud-Synchronisation**
-  - Echte Synchronisation zwischen mehreren Geräten, z.B. iPhone und später iPad.
-- **iPad-Dashboard**
-  - Größere Übersicht für Auswertung, Monatsabschluss und Verwaltung.
-- **Technische Vorbereitung für Synchronisation**
-  - Datenmodelle und Speicherung so vorbereiten, dass spätere Synchronisation zuverlässig möglich wird.
+- [iCloud-Synchronisation](https://github.com/martinfelder/TimivoCommunity/issues/20)
+- [iPad-Dashboard](https://github.com/martinfelder/TimivoCommunity/issues/21)
+- [Technische Vorbereitung für Synchronisation](https://github.com/martinfelder/TimivoCommunity/issues/22)
 
 ## Bereits in Arbeit oder umgesetzt
 
