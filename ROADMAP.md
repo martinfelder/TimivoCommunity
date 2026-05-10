@@ -8,8 +8,11 @@ Die einzelnen Roadmap-Punkte sind zusätzlich als GitHub Issues erfasst.
 
 - [Datenqualität vor Export](https://github.com/martinfelder/TimivoCommunity/issues/3)
 - [Monatsabschluss](https://github.com/martinfelder/TimivoCommunity/issues/4)
+- [Wochenabschluss](https://github.com/martinfelder/TimivoCommunity/issues/24)
 - [Grafische Auswertungsübersicht für Woche, Monat und Jahr](https://github.com/martinfelder/TimivoCommunity/issues/23)
+- [Persönliche Insights](https://github.com/martinfelder/TimivoCommunity/issues/25)
 - [PDF-Report weiter verbessern](https://github.com/martinfelder/TimivoCommunity/issues/5)
+- [Export-Vorlagen](https://github.com/martinfelder/TimivoCommunity/issues/26)
 - [Qualitätsstatus pro Tag](https://github.com/martinfelder/TimivoCommunity/issues/6)
 - [Intelligente Pausenerinnerungen](https://github.com/martinfelder/TimivoCommunity/issues/7)
 - [Siri Shortcuts / App Shortcuts](https://github.com/martinfelder/TimivoCommunity/issues/8)
@@ -20,11 +23,20 @@ Die einzelnen Roadmap-Punkte sind zusätzlich als GitHub Issues erfasst.
 - [Überzeit-Abbauplan](https://github.com/martinfelder/TimivoCommunity/issues/10)
 - [Arbeitgeber-Regelcheck](https://github.com/martinfelder/TimivoCommunity/issues/11)
 - [Persönliche Wochenziele](https://github.com/martinfelder/TimivoCommunity/issues/12)
+- [Automatische Tagesvorschläge](https://github.com/martinfelder/TimivoCommunity/issues/27)
+- [Abwesenheits-Konfliktprüfung](https://github.com/martinfelder/TimivoCommunity/issues/28)
+- [Arbeitgeber-Wechsel-Historie](https://github.com/martinfelder/TimivoCommunity/issues/29)
 - [Start- und Endzeit-Vorlagen](https://github.com/martinfelder/TimivoCommunity/issues/13)
 - [Schnellkorrektur aus Analyse](https://github.com/martinfelder/TimivoCommunity/issues/14)
 
+## Bedienkomfort
+
+- [Favoriten und Schnellaktionen](https://github.com/martinfelder/TimivoCommunity/issues/30)
+- [Arbeitsmuster-Erkennung](https://github.com/martinfelder/TimivoCommunity/issues/31)
+
 ## Später
 
+- [Datenimport-Assistent](https://github.com/martinfelder/TimivoCommunity/issues/32)
 - [Kalender-Export](https://github.com/martinfelder/TimivoCommunity/issues/15)
 - [Interaktive Widgets](https://github.com/martinfelder/TimivoCommunity/issues/16)
 - [Lock-Screen-Widgets](https://github.com/martinfelder/TimivoCommunity/issues/17)
