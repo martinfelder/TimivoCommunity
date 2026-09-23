@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-23T12:00:00Z",
+  "sections": [
+    {
+      "kind": "inProgress",
+      "items": [
+        {
+          "id": "work-location-switch",
+          "symbol": "location.fill",
+          "highlighted": true,
+          "eyebrow": {
+            "de": "AKTIV",
+            "en": "ACTIVE"
+          },
+          "title": {
+            "de": "Arbeitsort schneller wechseln",
+            "en": "Switch work location faster"
+          },
+          "body": {
+            "de": "Arbeitsorte lassen sich künftig direkt beim Erfassen auswählen und wechseln.",
+            "en": "Choose and switch work locations directly while recording time."
+          },
+          "badge": {
+            "de": "Umsetzung läuft",
+            "en": "In development"
+          }
+        },
+        {
+          "id": "edit-entries",
+          "symbol": "slider.horizontal.3",
+          "highlighted": false,
+          "eyebrow": {
+            "de": "VORBEREITUNG",
+            "en": "PREPARATION"
+          },
+          "title": {
+            "de": "Einträge einfacher korrigieren",
+            "en": "Edit entries more easily"
+          },
+          "body": {
+            "de": "Bearbeiten soll mit weniger Schritten schneller und klarer werden.",
+            "en": "Editing should become faster and clearer with fewer steps."
+          },
+          "badge": {
+            "de": "Konzept wird geprüft",
+            "en": "Concept under review"
+          }
+        }
+      ]
+    },
+    {
+      "kind": "next",
+      "items": [
+        {
+          "id": "weekly-overview",
+          "symbol": "calendar",
+          "highlighted": true,
+          "eyebrow": {
+            "de": "PRIORITÄT 1",
+            "en": "PRIORITY 1"
+          },
+          "title": {
+            "de": "Wochenübersicht verbessern",
+            "en": "Improve the weekly overview"
+          },
+          "body": {
+            "de": "Arbeitszeit, Pausen und Abwesenheiten sollen noch schneller erfassbar sein.",
+            "en": "Work time, breaks and absences should be even quicker to understand."
+          },
+          "badge": {
+            "de": "Als Nächstes geplant",
+            "en": "Planned next"
+          }
+        },
+        {
+          "id": "export-structure",
+          "symbol": "doc.text",
+          "highlighted": false,
+          "eyebrow": {
+            "de": "PRIORITÄT 2",
+            "en": "PRIORITY 2"
+          },
+          "title": {
+            "de": "Export klarer strukturieren",
+            "en": "Make exports clearer"
+          },
+          "body": {
+            "de": "Auswahl und Vorschau sollen vor dem Export verständlicher werden.",
+            "en": "Selection and preview should be easier to understand before exporting."
+          },
+          "badge": {
+            "de": "Danach vorgesehen",
+            "en": "Planned afterwards"
+          }
+        }
+      ]
+    },
+    {
+      "kind": "ideas",
+      "items": [
+        {
+          "id": "calendar-integration",
+          "symbol": "lightbulb.fill",
+          "highlighted": true,
+          "eyebrow": {
+            "de": "WIRD GEPRÜFT",
+            "en": "UNDER REVIEW"
+          },
+          "title": {
+            "de": "Kalender noch besser einbinden",
+            "en": "Connect the calendar more closely"
+          },
+          "body": {
+            "de": "Termine und Arbeitszeit könnten künftig noch klarer zusammenspielen.",
+            "en": "Calendar events and work time could work together more clearly."
+          },
+          "badge": {
+            "de": "Idee wird geprüft",
+            "en": "Idea under review"
+          }
+        },
+        {
+          "id": "more-analysis",
+          "symbol": "chart.bar.fill",
+          "highlighted": false,
+          "eyebrow": {
+            "de": "GESAMMELT",
+            "en": "COLLECTED"
+          },
+          "title": {
+            "de": "Mehr Auswertungen",
+            "en": "More insights"
+          },
+          "body": {
+            "de": "Zusätzliche Einblicke, ohne die Übersicht zu überladen.",
+            "en": "Additional insights without overloading the overview."
+          },
+          "badge": {
+            "de": "Wunsch gesammelt",
+            "en": "Request collected"
+          }
+        }
+      ]
+    }
+  ]
+}
