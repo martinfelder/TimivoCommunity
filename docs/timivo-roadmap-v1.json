@@ -100,9 +100,30 @@
       "kind": "ideas",
       "items": [
         {
+          "id": "employer-name-visibility",
+          "symbol": "building.2.fill",
+          "highlighted": true,
+          "eyebrow": {
+            "de": "GESAMMELT",
+            "en": "COLLECTED"
+          },
+          "title": {
+            "de": "Arbeitgeber im Überblick anzeigen",
+            "en": "Show employer at a glance"
+          },
+          "body": {
+            "de": "Den Namen des aktuellen Arbeitgebers im Hero-Bereich und in Widgets sichtbar machen.",
+            "en": "Show the current employer’s name in the hero area and widgets."
+          },
+          "badge": {
+            "de": "Wunsch gesammelt",
+            "en": "Request collected"
+          }
+        },
+        {
           "id": "calendar-integration",
           "symbol": "lightbulb.fill",
-          "highlighted": true,
+          "highlighted": false,
           "eyebrow": {
             "de": "WIRD GEPRÜFT",
             "en": "UNDER REVIEW"
@@ -135,27 +156,6 @@
           "body": {
             "de": "Zusätzliche Einblicke, ohne die Übersicht zu überladen.",
             "en": "Additional insights without overloading the overview."
-          },
-          "badge": {
-            "de": "Wunsch gesammelt",
-            "en": "Request collected"
-          }
-        },
-        {
-          "id": "employer-name-visibility",
-          "symbol": "building.2.fill",
-          "highlighted": false,
-          "eyebrow": {
-            "de": "GESAMMELT",
-            "en": "COLLECTED"
-          },
-          "title": {
-            "de": "Arbeitgeber im Überblick anzeigen",
-            "en": "Show employer at a glance"
-          },
-          "body": {
-            "de": "Den Namen des aktuellen Arbeitgebers im Hero-Bereich und in Widgets sichtbar machen.",
-            "en": "Show the current employer’s name in the hero area and widgets."
           },
           "badge": {
             "de": "Wunsch gesammelt",
